@@ -10,9 +10,9 @@ https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-eas
 ## Step 3: In the Lambda console, enter the required developer portal stack parameters under Application settings.
 ```
 - Application name: api-portal
-- ArtifactsS3BucketName: 623552185285-bbsdm-api-gateway-dev-portal-artifacts
+- ArtifactsS3BucketName: 777445979748-bbsdm-api-gateway-dev-portal-artifacts
 - CognitoDomainNameOrPrefix: bbsdm-api
-- DevPortalSiteS3BucketName: 623552185285-bbsdm-api-gateway-dev-portal-site
+- DevPortalSiteS3BucketName: 777445979748-bbsdm-api-gateway-dev-portal-site
 ```
 
 ## Step 4: Select the check box next to I acknowledge that this app creates custom IAM roles and resource policies.
